@@ -1,0 +1,16 @@
+/* rewrite the style of duoshuo */
+/* 修改Like按钮的样式 */
+.post1 #ds-thread #ds-reset .ds-meta {
+  padding: 2em 0;
+  text-align: center;
+}
+.post1 #ds-thread #ds-reset .ds-meta .ds-like-thread-button {
+  background: #fff;
+  font-size: 1.2em;
+  line-height: 1.5em;
+}
+.post1 #ds-thread #ds-reset .ds-meta .ds-like-panel {
+  display: block;
+  padding: 10px 15px 0 0;
+  text-align: center;
+}
